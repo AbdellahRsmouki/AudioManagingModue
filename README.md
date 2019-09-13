@@ -1,7 +1,6 @@
 # AudioManagingModule
 
-AudioManagingModule is a module to manage audio files of an application.
-
+AudioManagingModule is a module for managing multiple applications audio files. The idea behind this module is to help the game developer so that he can just import this code and use it instead of writing it all from scratch.
 ---
 
 # Requirements
